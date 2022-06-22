@@ -1,0 +1,90 @@
+body{
+   font-family: 'Open Sans', sans-serif;;
+  
+ }
+
+.my_header{
+  
+    padding: 5px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    margin-left: 10px; 
+    /* border-style: solid;
+    border-width: 0;
+    border-left-width: 0.15em;
+    border-bottom-width: 0.15em;
+    border-image: linear-gradient(to right, #ecece7, #b8a997,#d8df82)1;     */
+    position: relative;
+    
+}
+
+#introduction{
+  padding-top: 10px;
+}
+
+p.list-group {
+  position: relative;
+  left: 80px;
+}
+
+#my_skills{
+  position: relative;
+  left: 80px;
+  top: 50px
+
+}
+
+#connect{
+  left: 10px;
+  position: relative;
+}
+
+a{
+ padding-left: 20px;
+}
+
+.skill_list{
+  background: #ff9999;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+ul li{
+  color: darkred;
+  padding: 5px;
+  margin-left: 15px;
+  list-style: none;
+}
+
+#footer-id li{
+  display: inline;
+  justify-content: flex-end;
+  color: black;
+  float: right;
+  padding: 5px;
+
+}
+
+.svg {
+  display: block;
+  margin: 0 auto;
+  margin-top: -15px;
+}
+.blend {
+  mix-blend-mode: multiply;
+}
+.isolate {
+  isolation: isolate;
+}
+
+
+
+
+
+
+
+
+
+
+
